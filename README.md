@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### Thanks for visiting my profile. 😊
 
-My name is **Ahmed/Ahmed**, but on the internet I like being called ✨**surreal730/surreal730**✨
+My name is **Ahmed**, but on the internet I like being called ✨**surreal730**✨
 
 I'm **__25__** and based out of La Jolla, CA.
 
