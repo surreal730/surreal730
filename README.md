@@ -22,8 +22,8 @@ I am a self taught guitar player 🎸, music producer 🎧, an athlete ⚽️ an
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=f4fucz8n8tfz0wxk0knbp1yyw&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=f4fucz8n8tfz0wxk0knbp1yyw&redirect=true)
 
-You can check out my music at:
-# ADMD (Melodic House & Techno)
+# You can check out my music at:
+# **ADMD** (Melodic House & Techno)
 ## Favorite Artists: **Tale of Us**,**Ae:ther**, **Fideles**
 ## [Instagram](https://www.instagram.com/admdmusic)
 ## [Soundcloud](https://soundcloud.com/admdmusic)
