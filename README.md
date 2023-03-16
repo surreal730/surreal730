@@ -3,13 +3,13 @@
 
 My name is **Ahmed**, but on the internet I like being called ✨**surreal730**✨
 
-I'm **__25__** and based out of La Jolla, CA.
+I'm **__25__** and based out of La Jolla, CA
 
-I love data science and applied machine learning in the business domain.
+I love data science and applied machine learning in the business domain
 
-I'm currently studying at UC San Diego at the Rady School of Management, Graduating December 2023.
+I'm currently studying at UC San Diego at the Rady School of Management, Graduating December 2023
 
-I am a self taught guitar player 🎸, music producer 🎧, an athlete ⚽️ and an avid chess player ♟.
+I am a self taught guitar player 🎸, music producer 🎧, an athlete ⚽️ and an avid chess player ♟
 
 - 🔭 I’m currently working on finishing my masters degree in Business Analytics
 - 🌱 I’m currently mastering my Python, SQL, and R skills and using my quantitative knowledge to build robust data-driven models
