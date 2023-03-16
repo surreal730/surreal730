@@ -2,7 +2,7 @@
 
 My name is **Ahmed/Ahmed**, but on the internet I like being called ✨**surreal730/surreal730**✨
 
-I'm **__25__**
+I'm **__25__** and based out of La Jolla, CA.
 
 I love data science and applied machine learning in the business domain.
 
@@ -12,7 +12,7 @@ I am a self taught guitar player 🎸, music producer 🎧, an athlete ⚽️ an
 
 You can check out my music at:
 [Instagram](https://www.instagram.com/admdmusic)
-[Soundcloud[(https://soundcloud.com/admdmusic)
+[Soundcloud](https://soundcloud.com/admdmusic)
 [Spotify](https://open.spotify.com/user/f4fucz8n8tfz0wxk0knbp1yyw?si=91b928e12d62485b)
 
 - 🔭 I’m currently working on finishing my masters degree in Business Analytics
