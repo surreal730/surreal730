@@ -12,9 +12,11 @@ I'm currently studying at UC San Diego at the Rady School of Management, Graduat
 I am a self taught guitar player 🎸, music producer 🎧, an athlete ⚽️ and an avid chess player ♟.
 
 You can check out my music at:
-[Instagram](https://www.instagram.com/admdmusic)
-[Soundcloud](https://soundcloud.com/admdmusic)
-[Spotify](https://open.spotify.com/user/f4fucz8n8tfz0wxk0knbp1yyw?si=91b928e12d62485b)
+# ADMD (Melodic House & Techno)
+#### Favorite Artists: **Tale of Us**,**Ae:ther**, **Fideles**
+## [Instagram](https://www.instagram.com/admdmusic)
+## [Soundcloud](https://soundcloud.com/admdmusic)
+## [Spotify](https://open.spotify.com/user/f4fucz8n8tfz0wxk0knbp1yyw?si=91b928e12d62485b)
 
 - 🔭 I’m currently working on finishing my masters degree in Business Analytics
 - 🌱 I’m currently mastering my Python, SQL, and R skills and using my quantitative knowledge to build robust data-driven models
