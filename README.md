@@ -7,7 +7,7 @@ I'm **__25__** and based out of La Jolla, CA
 
 I love data science and applied machine learning in the business domain
 
-I'm currently studying at UC San Diego at the Rady School of Management, Graduating December 2023
+I'm currently pursuing Masters in Business Analytics (MSBA) at UC San Diego at the Rady School of Management, Graduating December 2023
 
 I am a self taught guitar player 🎸, music producer 🎧, an athlete ⚽️ and an avid chess player ♟
 
