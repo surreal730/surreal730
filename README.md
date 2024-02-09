@@ -1,20 +1,17 @@
 ### Hi there 👋
 #### Thanks for visiting my profile. 😊
 
-My name is **Ahmed**, but on the internet I like being called ✨**surreal730**✨
+My name is **Ahmed**
 
 I'm **__25__** and based out of La Jolla, CA
 
 I love data science and applied machine learning in the business domain
 
-I'm currently pursuing Masters in Business Analytics (MSBA) at UC San Diego at the Rady School of Management, Graduating December 2023
+I'm a Masters in Business Analytics (MSBA) at UC San Diego at the Rady School of Management, Graduated December 2023
 
 I am a self taught guitar player 🎸, music producer 🎧, an athlete ⚽️ and an avid chess player ♟
 
-- 🔭 I’m currently working on finishing my masters degree in Business Analytics
-- 🌱 I’m currently mastering my Python, SQL, and R skills and using my quantitative knowledge to build robust data-driven models
 - 👯 I’m looking to collaborate on data science and applied machine learning projects
-- 🤔 I’m looking for internship opportunities in California for Summer 2023
 - 💬 Ask me about anything! I'm always available to chat on [LinkedIn](https://www.linkedin.com/in/syedmasood97/)
 - ⚡ Fun fact: My friends call me the "Human-Shazam", because I can tell the name of the song as soon as it starts (even the ones without lyrics 😝)
 
